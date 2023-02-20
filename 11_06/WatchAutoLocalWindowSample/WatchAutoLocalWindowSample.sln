@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WatchAutoLocalWindowSample", "WatchAutoLocalWindowSample\WatchAutoLocalWindowSample.csproj", "{FC71194F-3ED9-44FE-A84D-AA810EBA0C6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC71194F-3ED9-44FE-A84D-AA810EBA0C6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC71194F-3ED9-44FE-A84D-AA810EBA0C6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC71194F-3ED9-44FE-A84D-AA810EBA0C6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC71194F-3ED9-44FE-A84D-AA810EBA0C6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D301ACB-58B2-41BF-AF2A-65A4E89E37EB}
+	EndGlobalSection
+EndGlobal
